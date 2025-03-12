@@ -18,6 +18,11 @@
 - ☁️ Cloud Services: GCP, AWS
 
 ## 📂 Projects
+### 🛳️ [Titanic Survival Prediction App](https://github.com/UmmeKulsum08/WebApp-Project)
+- Developed a Streamlit-based web app for predicting Titanic survival outcomes.
+- Trained a Logistic Regression model on the Titanic dataset.
+- Provided an interactive UI for users to input passenger details and get predictions.
+  
 ### 🚀 [Bankruptcy Prediction Web App](https://github.com/UmmeKulsum08/Bankruptcy_Prevention)
 - Built a web app using Streamlit for predicting bankruptcy based on risk factors.
 - Implemented machine learning models to analyze financial risks.
