@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there! 👋 I'm Umme Kulsum 
 
-<!--
-**UmmeKulsum08/UmmeKulsum08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 BCA Graduate
+- 💻 Junior Data Scientist | Machine Learning Enthusiast
+- 📊 Passionate about EDA, Data Visualization, and Predictive Modeling
+- 🎯 Completed Data Science Course & 6-Month Internship
+- 🚀 Currently working on a kick-off project as a Data Science team member
 
-Here are some ideas to get you started:
+## 🔥 Skills & Expertise
+- 📌 Python, Pandas, NumPy, Scikit-Learn, TensorFlow
+- 📊 Data Preprocessing, Feature Engineering, Label Encoding
+- 📈 Machine Learning, Clustering, Predictive Modeling
+- 🎨 Data Visualization (Matplotlib, Seaborn, Plotly, Tableau, Excel)
+- 🌐 Flask & Streamlit for Web Apps
+- 🛠️ SQL, HTML, CSS, JavaScript
+- 🗄️ Database: MySQL
+- ☁️ Cloud Services: GCP, AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+### 🚀 [Bankruptcy Prediction Web App](https://github.com/UmmeKulsum08/Bankruptcy-Prevention)
+- Built a web app using Streamlit for predicting bankruptcy based on risk factors.
+- Implemented machine learning models to analyze financial risks.
+- Integrated an interactive UI for user inputs & real-time predictions.
+
+### 📊 [Clustering Models Dashboard](https://github.com/UmmeKulsum08/Clustering-Analysis)
+- Developed a Streamlit-based dashboard for training & evaluating clustering models.
+- Supported KMeans, DBSCAN, GMM, and Hierarchical clustering.
+- Included interactive visualizations & performance comparisons.
+
+
+
+
+
