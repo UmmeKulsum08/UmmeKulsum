@@ -18,12 +18,12 @@
 - ☁️ Cloud Services: GCP, AWS
 
 ## 📂 Projects
-### 🚀 [Bankruptcy Prediction Web App](https://github.com/UmmeKulsum08/Bankruptcy-Prevention)
+### 🚀 [Bankruptcy Prediction Web App](https://github.com/UmmeKulsum08/Bankruptcy_Prevention)
 - Built a web app using Streamlit for predicting bankruptcy based on risk factors.
 - Implemented machine learning models to analyze financial risks.
 - Integrated an interactive UI for user inputs & real-time predictions.
 
-### 📊 [Clustering Models Dashboard](https://github.com/UmmeKulsum08/Clustering-Analysis)
+### 📊 [Clustering Models Dashboard](https://github.com/UmmeKulsum08/Clustering_Analysis)
 - Developed a Streamlit-based dashboard for training & evaluating clustering models.
 - Supported KMeans, DBSCAN, GMM, and Hierarchical clustering.
 - Included interactive visualizations & performance comparisons.
